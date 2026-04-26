@@ -1,0 +1,12 @@
+# SnakeLink v2.0 Python Dependencies
+# Install: pip install -r requirements.txt
+
+PyQt6>=6.5.0
+cryptography>=41.0.0
+folium>=0.14.0
+PyQt6-WebEngine>=6.5.0
+sounddevice>=0.4.6
+numpy>=1.24.0
+opuslib>=3.0.1
+pillow>=10.0.0
+pyinstaller>=5.13.0
