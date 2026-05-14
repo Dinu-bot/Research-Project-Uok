@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "transmitter",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
